@@ -3,7 +3,7 @@
 
 Text
 
-EDP(Engineering Design Process)
+EDP (Engineering Design Process)
 
 [Previous](entry01.md) | [Next](entry03.md)
 
